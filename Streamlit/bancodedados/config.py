@@ -1,5 +1,3 @@
-[connections.postgresql]
-dialect = "postgresql"
 host = "localhost"
 port = "5432"
 database = "nilopecanha"
